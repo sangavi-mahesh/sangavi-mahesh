@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL  |
+|     3| TDL   |
+
+</details>
 <!--
 **sangavi-mahesh/sangavi-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
